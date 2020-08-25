@@ -21,5 +21,5 @@ To usage is simple, just pass some arguments.
 `--port` or `-p` to pass a Beats listening port
 
 ```buildoutcfg
-
+python3 gpuinfo-tobeats.py -s localhost -p 5555 &
 ```
