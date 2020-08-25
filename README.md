@@ -18,8 +18,11 @@ pip3 install -U -r requirements
 To usage is simple, just pass some arguments.
 
 `--server` or `-s` to pass a Beats server
+
 `--port` or `-p` to pass a Beats listening port
 
+
+**Example**:
 ```buildoutcfg
 python3 gpuinfo-tobeats.py -s localhost -p 5555 &
 ```
