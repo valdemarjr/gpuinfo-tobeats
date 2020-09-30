@@ -26,5 +26,3 @@ To usage is simple, just pass some arguments.
 ```buildoutcfg
 python3 gpuinfo-tobeats.py -s localhost -p 5555 &
 ```
-
-Thanks!
